@@ -1,4 +1,4 @@
-# LED lighting tutorial - Cordless LED luminaire
+# LED lighting tutorial - Cordless LED luminaire with dimmer
 
 Portable balcony, terrace, garden or restaurant lantern set-up, based on a **3.7V rechargeable Li-Po battery**
 
