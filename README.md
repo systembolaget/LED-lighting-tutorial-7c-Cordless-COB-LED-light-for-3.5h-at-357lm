@@ -1,6 +1,6 @@
-# LED lighting tutorial - Cordless LED luminaire with dimmer
+# LED lighting tutorial - Cordless dimmable LED light 3,5h @ 357lm with 3000K @ CRI 90
 
-Portable balcony, terrace, garden or restaurant lantern set-up, based on a **3.7V rechargeable Li-Po battery**
+Get off the grid. Cut the cord. How to drive a high-CRI SMD LED from a rechargeable 3,7V Li-Po battery for 3,5 hours at full brightness
 
 ### Result
 
