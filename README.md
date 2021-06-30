@@ -2,9 +2,11 @@
 
 Get off the grid. Cut the cord. How to drive a high-CRI SMD LED from a rechargeable 3,7V Li-Po battery for 3,5 hours at full brightness
 
-### Result
+### Setup
 
-![](Assets/7c%20result.jpg)
+You can click the image to play the associated YouTube video
+
+[![Alt text](Assets/7c%20result.jpg)](https://www.youtube.com/watch?v=xyvuYty4-24)
 
 ### Schematic
 
