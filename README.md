@@ -1,4 +1,4 @@
-# LED lighting tutorial - Cordless COB LED light 3,5h @ 357lm
+# LED lighting tutorial - Cordless COB LED light for 3,5h @ 357lm
 
 Get off the grid. Cut the cord. How to drive a high-CRI SMD LED from a rechargeable 3,7V Li-Po battery for 3,5 hours at full brightness
 
